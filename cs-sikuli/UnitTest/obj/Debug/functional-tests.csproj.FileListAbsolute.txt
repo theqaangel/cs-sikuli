@@ -1,0 +1,10 @@
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\bin\Debug\JSikuliModule.jar
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\bin\Debug\SikuliModule.dll
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\bin\Debug\Ionic.Zip.dll
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\bin\Debug\SikuliModule.pdb
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\obj\Debug\functional-tests.csprojResolveAssemblyReference.cache
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Angel\git\cs-sikuli\cs-sikuli\UnitTest\obj\Debug\UnitTest.g.resources
